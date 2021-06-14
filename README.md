@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-fitriatryh/fitriatryh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fitriatryh/fitriatryh cantik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
